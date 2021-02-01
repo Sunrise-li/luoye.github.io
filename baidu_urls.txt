@@ -1,3 +1,17 @@
+http://example.com/2021/01/31/python-opencv/
+http://example.com/2021/01/30/vertx-web/
+http://example.com/2021/01/25/a/
+http://example.com/2021/01/25/bash-shell/
+http://example.com/2021/01/24/vertx/
+http://example.com/2021/01/24/kotlin/
+http://example.com/2021/01/24/pytthon-scrapy/
+http://example.com/2021/01/24/scapy/
+http://example.com/2021/01/23/python-selenium/
+http://example.com/2021/01/22/python-thread/
+http://example.com/2021/01/20/xpath/
+http://example.com/2021/01/19/docker-sqlserver/
+http://example.com/2021/01/18/requests/
+http://example.com/2021/01/18/spider/
 http://example.com/2021/01/06/web-info-collect/
 http://example.com/2021/01/06/permeate/
 http://example.com/2021/01/06/test/
