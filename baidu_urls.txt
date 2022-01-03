@@ -12,6 +12,7 @@ http://example.com/2021/07/30/httpie/
 http://example.com/2021/07/30/excel/
 http://example.com/2021/07/17/nginx/
 http://example.com/2021/07/13/rust/
+http://example.com/2021/07/12/android/dalvik/
 http://example.com/2021/07/12/openssl/
 http://example.com/2021/07/08/vim/
 http://example.com/2021/07/05/git/
@@ -22,7 +23,6 @@ http://example.com/2021/05/23/pentest/msf/
 http://example.com/2021/05/14/docker/oracle/
 http://example.com/2021/05/14/pentest/windows/windows/
 http://example.com/2021/04/16/java/export-word/
-http://example.com/2021/04/13/android/dalvik/
 http://example.com/2021/04/07/pentest/information-collect/
 http://example.com/2021/01/31/python/python-opencv/
 http://example.com/2021/01/30/java/vertx-web/
